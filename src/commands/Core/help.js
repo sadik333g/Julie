@@ -22,7 +22,7 @@ const BUG_REPORT_BUTTON_ID = "help-bug-report";
 const HELP_MENU_TIMEOUT_MS = 5 * 60 * 1000;
 
 const CATEGORY_ICONS = {
-    Core: "ℹ️",
+    Core: "<a:info:1300453069217202241>",
     Moderation: "🛡️",
     Economy: "💰",
     Music: "🎵",
